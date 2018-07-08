@@ -1,0 +1,40 @@
+8
+
+dir
+35860
+svn://192.168.1.75/salesApp/WebContent/resources
+svn://192.168.1.75
+
+
+
+2015-05-25T09:17:11.156250Z
+35552
+Sumit.k
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1e34cb23-f46a-4246-8114-ac864b3302c3
+
+css
+dir
+
+fonts
+dir
+
+images
+dir
+
+js
+dir
+
